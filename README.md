@@ -1,7 +1,7 @@
 # ffmpeg-nvenc-build
 
 * This script will compile and install a ffmpeg build with [nvenc](https://en.wikipedia.org/wiki/Nvidia_NVENC) support.
-* This fork is a cleaned up and simplified version of the master, set only to work for Ubuntu 1804 with Nvidia 450.xx drives already installed and about to run nvidia-smi.
+* This fork is a cleaned up and simplified version of the master, set only to work for Ubuntu 1804 with Nvidia 450.xx drives already installed and able to run nvidia-smi.
 
 ### Supported OS'es:
 
